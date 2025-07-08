@@ -1,0 +1,10 @@
+Shortest distances from node A:
+To node A: 0
+To node B: 5
+To node C: 7
+To node D: 15
+To node E: 3
+To node F: 5
+To node G: 4
+To node H: 6
+To node I: 1
